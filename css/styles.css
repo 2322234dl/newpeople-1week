@@ -315,14 +315,17 @@ section {
 
 /* CONTACT */
 
+
 #contact .button-leweb {
 	border: 1px solid #ccc;
 }
 
 .title {
-    font-size: var(--font-large);
+    font-size: 27px;
+	line-height: 150%;
     font-family: 'MapoFlowerIsland';
 	color: black;
+	padding-top: 50px;
 }
 
 /*Up next */
