@@ -304,6 +304,12 @@ section {
 		color: #bb1720;
 }
 
+.image .img img {
+    width: 100%;
+}
+
+
+
 /* Video player */
 .player {
 	/* position: relative; width: 100%; padding-bottom: 56.25%; */
@@ -327,6 +333,15 @@ section {
 	color: black;
 	padding-top: 50px;
 }
+
+.title2 {
+    font-family: 'IBMPlexSansKR-Regular';
+    font-size: 27px;
+	text-align: left;
+	line-height: 150%;
+}
+
+
 
 /*Up next */
 .upNext {
