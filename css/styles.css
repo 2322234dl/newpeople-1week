@@ -84,6 +84,11 @@ h5 {
     font-weight: 300;
 }
 
+h6 {
+	font-size: 22px;
+	color: #0061a4;
+	font-weight: 400;
+}
 
 /* FORM GROUPS */
 
@@ -336,9 +341,10 @@ section {
 
 .title2 {
     font-family: 'IBMPlexSansKR-Regular';
-    font-size: 27px;
+    font-size: 20px;
 	text-align: left;
 	line-height: 150%;
+	font-weight: 100;
 }
 
 
@@ -352,6 +358,12 @@ section {
     border-top: 1px solid var(--grey-dark-color);
     background-color: var(--blue-color);
     text-align: right;
+}
+
+#upNext .button{
+	width: 160px;
+	height: 30px;
+
 }
 
 
